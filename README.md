@@ -28,3 +28,5 @@
 
 ## ⚡ Fun Fact
 I love building real-world applications 🚀
+![GitHub followers](https://img.shields.io/github/followers/Amardeep-Singh27017?style=social)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6C63FF&size=25&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Engineer;Building+Real-Time+Apps)
