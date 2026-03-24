@@ -22,7 +22,7 @@
 ---
 
 ## 📫 Connect with me
-- GitHub: https://github.com/Amardeep-Singh27017
+- [LinkedIn](https://www.linkedin.com/in/amardeep-singh-36609127b/)
 
 ---
 
